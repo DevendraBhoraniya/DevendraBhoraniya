@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm DEVENDRA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning *JavaScript and React js*
 
-- ⚡ Fun fact *I like to play video games*
+- ⚡ Fun fact *I like to play video games and listen to music*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
