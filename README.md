@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devendra-bhoraniya-ab517b250" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Devendra Bhoraniya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devendra-bhoraniya-ab517b250" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="Devendra Bhoraniya" height="30" width="40" style="object-fit: contain;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
