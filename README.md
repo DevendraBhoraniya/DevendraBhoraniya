@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevendraBhoraniya&label=Profile%20views&color=0e75b6&style=flat" alt="DevendraBhoraniya" /> </p>
 
-- 🌱 I’m currently learning **React js**
-- 
+- 🌱 I’m currently learning **React.js & Node.js**
+  
 - 📫 How to reach me **bhoraniyadevendra@gmail.com**
-- 
-- ⚡ Fun fact **I like to play video games and listen to music**
+
+- ⚡ Fun fact about me is that **I like to play video games and listen to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
